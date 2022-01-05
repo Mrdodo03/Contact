@@ -1,0 +1,22 @@
+[
+    {
+        /* Veuillez écrire le nom de famille en MAJUSCULES*/
+
+        "photo":".medias/theo_photo.jpg",
+        "nomcomplet":"Théo SUBTIL-KLEIN",
+        "email":"theo.subtil-klein3@etu.univ-lorraine.fr",
+        "promo":"MMI1",
+    }
+    {
+        "photo":".medias/remi_photo.jpg",
+        "nomcomplet":"Rémi JEROME",
+        "email":"remi.jerome1@etu.univ-lorraine.fr",
+        "promo":"MMI1",
+    }
+    {
+        "photo":".medias/lisa_photo.jpg",
+        "nomcomplet":"Lisa MINERY",
+        "email":"lisa.minery2@etu.univ-lorraine.fr",
+        "promo":"MMI1",
+    }
+]
